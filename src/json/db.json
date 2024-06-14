@@ -1,0 +1,44 @@
+{
+  "diarios": [
+    {
+      "id": "1",
+      "titulo": "Primeiro dia de verão",
+      "conteudo": "Hoje foi um dia incrível! O sol estava radiante, a praia estava lotada e a água estava deliciosa. Nadei, joguei vôlei e tomei água de coco. À noite, fiz um churrasco com os amigos e assistimos ao pôr do sol. Foi um dia perfeito para começar o verão!",
+      "resumo": "Dia incrível na praia com amigos.",
+      "data": "2024-06-14",
+      "humor": 5
+    },
+    {
+      "id": "2",
+      "titulo": "Explorando a cidade",
+      "conteudo": "Hoje decidi explorar um novo bairro da cidade. Caminhei por ruas charmosas, descobri cafés aconchegantes e visitei uma livraria antiga. Encontrei um livro interessante sobre a história local e o comprei. Terminei o dia em um restaurante com música ao vivo, experimentando a culinária local. Foi uma experiência enriquecedora!",
+      "resumo": "Explorando um novo bairro e descobrindo lugares interessantes.",
+      "data": "2024-06-13",
+      "humor": 4
+    },
+    {
+      "id": "3",
+      "titulo": "Noite de cinema",
+      "conteudo": "Fui ao cinema com minha família hoje. Assistimos a um filme emocionante que nos fez rir e chorar. Adoro a experiência de compartilhar momentos como esse com as pessoas que amo. Depois do filme, fomos a uma sorveteria e conversamos sobre o que mais gostamos no filme. Foi uma noite memorável!",
+      "resumo": "Noite de cinema em família com filme emocionante.",
+      "data": "2024-06-12",
+      "humor": 4
+    },
+    {
+      "id": "1718369269906",
+      "titulo": "Dia muito Produtivo ",
+      "conteudo": "Consegui aceletar tudo do trabalho. Hoje estou conseguindo acelerar a faculdade, agora só falta acelerar o estudo em Java!!!! Muito legal ta dando certo \n\nAlém disso, estou acordando as 5:10 da manhã impressionante !",
+      "resumo": "Consegui aceletar tudo do trabalho. Hoje estou conseguindo acelerar a faculdade, agora só falta acel",
+      "data": "2024-06-14",
+      "humor": 5
+    },
+    {
+      "id": "1718369438007",
+      "titulo": "Vamos com tudo!",
+      "conteudo": "Hoje não foi um dia tão bom assim ,mas beleza também ",
+      "resumo": "Hoje não foi um dia tão bom assim ,mas beleza também ",
+      "data": "2024-06-14",
+      "humor": 1
+    }
+  ]
+}
