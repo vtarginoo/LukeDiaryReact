@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router-dom";
+import { Navigate, Route, Routes } from "react-router-dom";
 import PaginaBase from "./paginaBase";
 import PaginaInicial from "./paginaInicial";
 import PaginaForm from "./paginaForm";
@@ -9,8 +9,14 @@ const Rotas = () => {
     <Routes>
       <Route
         path="/"
-        element={<PaginaBase />}
-      >
+        element={
+          <Navigate
+            to="/home"
+            replace
+          />
+        }
+      />
+      <Route element={<PaginaBase />}>
         <Route
           path="/home"
           element={<PaginaInicial />}
