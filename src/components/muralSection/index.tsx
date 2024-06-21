@@ -6,17 +6,8 @@ import { getDiarios } from "../../http/diarioService";
 import { SmileOutlined } from "@ant-design/icons";
 import { useNavigate } from "react-router-dom";
 
-const { Title } = Typography;
-
 const MuralSectionContainer = styled.section`
   padding: 1.25rem;
-`;
-
-const CardTitle = styled(Title)`
-  margin-bottom: 1.25rem;
-  color: #f5e9c9 !important;
-  font-weight: bold !important;
-  text-decoration: underline;
 `;
 
 const DataContainer = styled.div`
@@ -72,8 +63,6 @@ const MuralSection: React.FC = () => {
 
   return (
     <MuralSectionContainer>
-      <CardTitle level={2}>Mural de Diários:</CardTitle>
-
       <Card title="Relembre o seu dia clicando em um dos cards!">
         <Row>
           {diarios.map((diario) => (
