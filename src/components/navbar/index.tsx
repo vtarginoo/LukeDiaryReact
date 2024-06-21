@@ -1,6 +1,6 @@
 import { Menu, MenuProps } from "antd";
 import { useState } from "react";
-import { SettingOutlined } from "@ant-design/icons";
+import { HomeOutlined, FormOutlined } from "@ant-design/icons";
 import styled from "styled-components";
 import logo from "../../assets/logoluke.png";
 import { useNavigate } from "react-router-dom";
@@ -45,12 +45,12 @@ const items: MenuItem[] = [
   {
     label: "Página Inicial",
     key: "firstPage",
-    icon: <SettingOutlined />,
+    icon: <HomeOutlined />,
   },
   {
     label: "Escreva novo diário",
     key: "WritePage",
-    icon: <SettingOutlined />,
+    icon: <FormOutlined />,
   },
 ];
 

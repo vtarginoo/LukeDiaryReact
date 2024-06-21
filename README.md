@@ -40,6 +40,18 @@ _Para executar o front-end basta seguir o seguinte comando no terminal:_
       Abra o http://localhost:5173/home no navegador.
       Se quiser acessar a Api Abra o http://localhost:3000/diarios
 
-# Protótipo
+# Protótipo (Figma)
 
-# LINK DO PROTOTIPO AQUI
+Para ter acesso ao protótipo do Figma, basta clicar nesse link:
+https://www.figma.com/design/RjyWT3ravdAARUx3m21DtE/Prot%C3%B3tipo-LukeDiary---PUC?node-id=0-1&t=rmguV5i3083dWoQu-0
+
+### Ponto Importante a mencionar sobre o figma:
+
+**1) Não foi possível trabalhar com variáveis (Exemplo: Clicar em um card e ele abrir exatamente o conteúdo) clicado na Página Detalhe**
+
+**2) Também não foi possível digitar em campos...**
+
+**Motivo:** para executar essas funcionalidades eu necessitaria do Plano pago do figma, assim, ao clicar em "set variables" eu recebo a seguinte mensagem :
+"You cannot use variables in prototyping with your current plan, but getting access is easy."
+
+**Peço que desconsiderem esses pontos na minha avalição.**

@@ -74,7 +74,7 @@ const MuralSection: React.FC = () => {
     <MuralSectionContainer>
       <CardTitle level={2}>Mural de Diários:</CardTitle>
 
-      <Card title="Relembre o seu dia clicando em um dos card!">
+      <Card title="Relembre o seu dia clicando em um dos cards!">
         <Row>
           {diarios.map((diario) => (
             <Col

@@ -12,15 +12,23 @@ export const CardContainer = styled.section`
 `;
 
 export const DataContainer = styled.div`
+  //21PX
   font-size: 1.3rem;
   text-align: center;
 `;
 
 export const TituloContainer = styled(Typography.Title)`
+  //26PX
   && {
     text-align: center;
     font-size: 1.6rem;
   }
+`;
+
+const StyledRate = styled(Rate)`
+  display: flex; /* Garante que o Rate seja um flex container */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
 `;
 
 const DetalheSection: React.FC = () => {
@@ -63,7 +71,7 @@ const DetalheSection: React.FC = () => {
           size="large"
         >
           <Typography.Paragraph>{diario.conteudo}</Typography.Paragraph>
-          <Rate
+          <StyledRate
             character={<SmileOutlined />}
             value={diario.humor}
             disabled

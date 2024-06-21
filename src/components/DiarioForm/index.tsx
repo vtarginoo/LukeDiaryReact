@@ -28,10 +28,11 @@ const FormCard = styled(Card)`
 const SubmitButton = styled(Button)`
   background-color: #533a22;
   font-weight: bold;
+  color: black;
 
   &:hover {
     background-color: #f5e9c9 !important;
-    color: #533a22 !important;
+    color: black !important;
     font-weight: bold;
   }
 `;
