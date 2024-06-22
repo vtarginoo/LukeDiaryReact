@@ -2,7 +2,7 @@
 
 **Descrição do Projeto:**
 
-Este é um projeto de frontend desenvolvido em React para a Sprint 3 da pós-graduação em Desenvolvimento Full-Stack da PUC-RJ. O objetivo é criar um aplicativo de diário simples, onde o usuário pode registrar suas experiências e reflexões diárias.
+Este é um projeto de frontend desenvolvido em React para a Sprint 3 da pós-graduação em Desenvolvimento Full-Stack da PUC-RJ. O objetivo é criar um aplicativo de diário simples, onde o usuário pode registrar suas experiências e reflexões diárias, além disso ele pode acessar seus diários por forma de mural e se quiser, acessar no detalhe clicando no card de seu mural.
 
 ## Como Executar o Frontend:
 
